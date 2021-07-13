@@ -1,13 +1,6 @@
-body{
+.main{
 	margin: 0% 15%;
 }
-/*.navbar{
-	display: flex;
-	justify-content: space-between;
-}*/
-/*.logo{
-	display: flex;
-}*/
 .nav_ul{
 	display: flex;
 	justify-content: space-between;
@@ -86,7 +79,6 @@ hr{
 .sec-box{
 	padding: 0 25px;
 }
-	
 .more{
 	color: red;
 	float: right;
@@ -97,68 +89,26 @@ hr{
 .our-main{
 	display: flex;
 }
-
-
-
-
-
-/*h5{
-	text-align: center;
+.img-box img{
+	width: 100px;
+	padding: 30px;
 }
-.five-div{
-	display: flex;
-}
-.four-box{
-   padding: 0 30px;
-
-}
-h5{
+.footer a{
+	padding: 5px;
 	font-size: 20px;
-	opacity: 0.8;
+	font-weight: bold;
+	color: #A9A9A9;
 }
-h6{
-	font-size: 15px;
-};
-
-.six-div{
-	display: flex;
-}*/
-
-
-
-
-
-
-
-
-
-/*Apeksha*/
-
-/*.main-menu{
-	margin:2px 10%;
-	background: aqua;
+.footer a:hover{
+	color:#333;
 }
-.nav-ul{
-	display: flex;
-	justify-content: space-between;
-	list-style: none;
-
-}
-.main-div{
-	display: flex;
-	padding: 20px 80px 40px 80px;
-
-
-}
-.div-h{
-	border: dotted;
-	display: flex;
-}
-.div-box{
-	border: 1px solid red;
-	
-}
-h2,h4{
+.last-box{
+	background-color: #D3D3D3;
+	height: 100px;
 	text-align: center;
+	padding-top: 60px;
 }
-*/
+.heart{
+	font-size: 20px;
+	color: red;
+}
